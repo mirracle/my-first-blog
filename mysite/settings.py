@@ -25,7 +25,7 @@ SECRET_KEY = 'ut3ko8dugc6#%d9)konci^yp#f5*wbogya-%avqwy8*(!@2at='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<твоё_имя_пользователя>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mirracle.pythonanywhere.com',]
 
 
 # Application definition
